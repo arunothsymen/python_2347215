@@ -1,4 +1,4 @@
-intro="Hii, I'm Symen. I'm from Sivakasi, Tamilnadu and I'm currently I'm persuading my Master Of Computer Application in Christ(Deemed to be)University, with a roll number of 2347215. In the year 2023, Kavaskar have choosen the domain of Football Management Systems using Python."
+intro="Hii, I'm Symen. I'm from Sivakasi, Tamilnadu and I'm currently I'm persuading my Master Of Computer Application in Christ(Deemed to be)University, with a roll number of 2347215. In the year 2023, Symen have choosen the domain of Football Management Systems using Python."
 
 def frequency_word_count(paragraph, target_word):
     words = paragraph.split()
